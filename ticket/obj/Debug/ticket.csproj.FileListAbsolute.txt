@@ -1,0 +1,7 @@
+C:\Users\leone\OneDrive\Documentos\codigos VSC\ticket\bin\Debug\ticket.exe.config
+C:\Users\leone\OneDrive\Documentos\codigos VSC\ticket\bin\Debug\ticket.exe
+C:\Users\leone\OneDrive\Documentos\codigos VSC\ticket\bin\Debug\ticket.pdb
+C:\Users\leone\OneDrive\Documentos\codigos VSC\ticket\obj\Debug\ticket.csproj.AssemblyReference.cache
+C:\Users\leone\OneDrive\Documentos\codigos VSC\ticket\obj\Debug\ticket.csproj.CoreCompileInputs.cache
+C:\Users\leone\OneDrive\Documentos\codigos VSC\ticket\obj\Debug\ticket.exe
+C:\Users\leone\OneDrive\Documentos\codigos VSC\ticket\obj\Debug\ticket.pdb
