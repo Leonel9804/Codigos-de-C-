@@ -1,0 +1,12 @@
+C:\Users\leone\OneDrive\Documentos\codigos VSC\blocksecurit\bin\Debug\blocksecurit.exe.config
+C:\Users\leone\OneDrive\Documentos\codigos VSC\blocksecurit\bin\Debug\blocksecurit.exe
+C:\Users\leone\OneDrive\Documentos\codigos VSC\blocksecurit\bin\Debug\blocksecurit.pdb
+C:\Users\leone\OneDrive\Documentos\codigos VSC\blocksecurit\obj\Debug\blocksecurit.csproj.AssemblyReference.cache
+C:\Users\leone\OneDrive\Documentos\codigos VSC\blocksecurit\obj\Debug\blocksecurit.admin.resources
+C:\Users\leone\OneDrive\Documentos\codigos VSC\blocksecurit\obj\Debug\blocksecurit.Form1.resources
+C:\Users\leone\OneDrive\Documentos\codigos VSC\blocksecurit\obj\Debug\blocksecurit.Properties.Resources.resources
+C:\Users\leone\OneDrive\Documentos\codigos VSC\blocksecurit\obj\Debug\blocksecurit.Usuario.resources
+C:\Users\leone\OneDrive\Documentos\codigos VSC\blocksecurit\obj\Debug\blocksecurit.csproj.GenerateResource.cache
+C:\Users\leone\OneDrive\Documentos\codigos VSC\blocksecurit\obj\Debug\blocksecurit.csproj.CoreCompileInputs.cache
+C:\Users\leone\OneDrive\Documentos\codigos VSC\blocksecurit\obj\Debug\blocksecurit.exe
+C:\Users\leone\OneDrive\Documentos\codigos VSC\blocksecurit\obj\Debug\blocksecurit.pdb
