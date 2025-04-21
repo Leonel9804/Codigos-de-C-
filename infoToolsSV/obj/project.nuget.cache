@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MpSmgTRgPqcQKtm/KFWV93S9NZdeKatVRjzmRF7qnwF8Eyfn7YVIZiRADC4w4wa2xnv5aI5POlK2MaTK9i9tuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leone\\source\\repos\\infoToolsSV\\infoToolsSV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leone\\.nuget\\packages\\mstest.testadapter\\2.2.10\\mstest.testadapter.2.2.10.nupkg.sha512",
+    "C:\\Users\\leone\\.nuget\\packages\\mstest.testframework\\2.2.10\\mstest.testframework.2.2.10.nupkg.sha512",
+    "C:\\Users\\leone\\.nuget\\packages\\selenium.webdriver\\4.9.1\\selenium.webdriver.4.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}
